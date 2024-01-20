@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FUxDeveloper82&psig=AOvVaw1VFXsz259UBqi-5E8Ejs2l&ust=1705845337285000&source=images&cd=vfe&ved=0CBMQjRxqFwoTCPi-6p2P7IMDFQAAAAAdAAAAABAJ)](https://github.com/nikkuveejar)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FUxDeveloper82&psig=AOvVaw1VFXsz259UBqi-5E8Ejs2l&ust=1705845337285000&source=images&cd=vfe&ved=0CBMQjRxqFwoTCPi-6p2P7IMDFQAAAAAdAAAAABAJ)]
 <h1 align="center">Hi 👋, I'm Nikku Kumar</h1>
 <h3 align="center">A passionate frontend developer from India, interested in building new things. Love to explore startups and Entrepreneurship.</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
